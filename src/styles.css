@@ -1,0 +1,21 @@
+.animation-bar {
+  background-color: greenyellow;
+  width: 0px;
+}
+
+.bar-container {
+  background-color: gray;
+  height: 2em;
+  line-height: 2em;
+  margin: 1em 0;
+  width: 200px;
+}
+
+.bar-container.disabled {
+  pointer-events: none;
+}
+
+.green {
+  background-color: aquamarine;
+  margin: 1em 0;
+}

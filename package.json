@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-javascript-animation",
+  "version": "1.0.0",
+  "description": "Progress bar",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  }
+}
